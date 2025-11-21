@@ -1,0 +1,30 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+ 
+# Virtual environment (venv)
+venv/
+.venv/
+
+# Dependencies installed by pip
+/env/
+/bin/
+
+# Flask/Werkzeug
+.flaskenv
+
+# Jupyter Notebook Files
+.ipynb_checkpoints
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
