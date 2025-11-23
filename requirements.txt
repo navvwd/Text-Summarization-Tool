@@ -1,3 +1,7 @@
 Flask
 sumy
 nltk
+gunicorn
+numpyFlask
+sumy
+nltk
